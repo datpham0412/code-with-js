@@ -3,6 +3,7 @@
 
 
 const promise = new Promise((resolve, reject) => {
+    // Perform an asynchronous operation
     setTimeout(() => {
         const success = true; // Simulate success or failure
         if (success) {
