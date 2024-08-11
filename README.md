@@ -1,5 +1,5 @@
 ## 📋 Project Description
-**Code with JS** is a repository created for practicing and reinforcing fundamental knowledge of the JavaScript programming language. It includes a variety of examples and exercises covering essential JavaScript concepts such as functions, asynchronous programming, DOM manipulation, and more.
+**Code with JS** is a repository created to practice and reinforce fundamental knowledge of the JavaScript programming language. It includes a variety of examples and exercises covering essential JavaScript concepts such as functions, asynchronous programming, DOM manipulation, and more.
 
 ## 🛠 Technologies Used
 - **JavaScript**: Core programming language for all examples.
